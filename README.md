@@ -100,7 +100,7 @@ Install all the requirements by running this command below
    ```sh
    git clone https://github.com/DickyAdi/batagor-recognition.git
    ```
-2. Install NPM packages as above
+2. Install libraries as above
    ```sh
    pip install -r requirements.txt
    ```
